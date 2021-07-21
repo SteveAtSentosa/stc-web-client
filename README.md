@@ -1,8 +1,7 @@
 yarn install
 yarn start
 
-`Components to start looking at`
-
+Components to start looking at
 ```
 src/index.html
 src/index.js
