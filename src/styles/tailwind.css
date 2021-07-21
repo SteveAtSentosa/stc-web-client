@@ -1,0 +1,16 @@
+/*
+  TODO: have a look at this,
+  and apply the ideas of appropriate: https://mattferderer.com/add-postcss-imports-to-tailwind-css
+*/
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "../tailwind-custom.css";
+@import "../global.css";

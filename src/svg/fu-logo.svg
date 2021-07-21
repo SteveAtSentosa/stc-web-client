@@ -1,0 +1,17 @@
+<svg width="249px" height="57px" viewBox="0 0 249 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2.000000, 1.000000)">
+            <g id="Group" transform="translate(2.000000, -1.000000)">
+                <text id="fit" font-family="TrebuchetMS, Trebuchet MS" font-size="48" font-weight="normal" fill="#7986CB">
+                    <tspan x="0" y="45">fit</tspan>
+                </text>
+                <text id="prising" font-family="TrebuchetMS, Trebuchet MS" font-size="48" font-weight="normal" fill="#4DB6AC">
+                    <tspan x="105" y="46">prising</tspan>
+                </text>
+                <path d="M55,16 L66.2316176,16 L66.2316176,37.4044934 C66.2316176,39.1001919 67.268372,40.4797225 69.3419118,41.5431266 C71.4154515,42.6065307 74.266526,43.1382248 77.8952206,43.1382248 C81.9559027,43.1382248 85.1165635,42.6173083 87.3772978,41.5754597 C89.6380321,40.533611 90.7683824,39.1073776 90.7683824,37.2967165 L90.7683824,16 L102,16 L102,37.7278241 C102,40.9755178 99.8184961,43.5190273 95.4554228,45.358429 C91.0923495,47.1978307 85.267806,48.1175178 77.9816176,48.1175178 C70.6378309,48.1175178 64.9716805,47.2193859 60.9829963,45.4230952 C56.9943122,43.6268044 55,41.0545547 55,37.7062687 L55,16 Z" id="U" fill="#4DB6AC"></path>
+                <circle id="Oval" fill="#B2DFDB" cx="78.5" cy="29.5" r="9.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
